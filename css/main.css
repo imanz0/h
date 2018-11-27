@@ -1,8 +1,7 @@
 body {
+ width: 50%;
+ margin: 0 auto;
  font-family: "lucida grande";
  font-size: 11px;
-}
-
-.main {
-    padding: 4px 25px;
+ padding: 4px 25px;
 }
