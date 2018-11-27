@@ -1,7 +1,10 @@
 body {
- width: 50%;
- margin: 0 auto;
  font-family: "lucida grande";
  font-size: 11px;
- padding: 4px 25px;
 }
+
+.main {
+  width: 50%;
+  margin: 0 auto;
+}
+
